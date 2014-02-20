@@ -12,5 +12,5 @@ non-dominating sets" by Richard Everson, David Walker, Jonathan Fieldsend,
 to appear in the
 [Evolutionary Computation Journal](http://www.mitpressjournals.org/loi/evco), 2014.
 
-View the notebook at <http://nbviewer.ipython.org/>
+View the notebook at <http://nbviewer.ipython.org/github/richardeverson/life-on-the-edge/blob/master/life-on-the-edge.ipynb/>
 
