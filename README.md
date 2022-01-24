@@ -1,4 +1,4 @@
-# Life on the edge: Characterising the Edges of Mutually Non-dominating Sets
+## Life on the edge: Characterising the Edges of Mutually Non-dominating Sets
 
 Richard Everson, David Walker, Jonathan Fieldsend
 
